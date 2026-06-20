@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="multi-tenant.jpg" alt="Multi Tenant Logo" width="200" />
+</div>
+
 # Branding — MULTI TENANT
 
 ## Posicionamento
