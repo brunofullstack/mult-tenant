@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="multi-tenant.jpg" alt="Multi Tenant Logo" width="200" />
+  <img src="multi-tenant.jpg" alt="Multi Tenant Logo" width="600" />
 </div>
 
 # Branding — MULTI TENANT
@@ -12,14 +12,14 @@ Seu foco não é apenas desenvolver software, mas construir ecossistemas digitai
 
 A empresa atua em todo o ciclo de vida do produto:
 
-* Pesquisa e validação de mercado
-* Desenvolvimento de software
-* Infraestrutura e DevOps
-* Marketing e aquisição de usuários
-* Operação e suporte
-* Evolução contínua
-* Escalabilidade
-* Monetização
+- Pesquisa e validação de mercado
+- Desenvolvimento de software
+- Infraestrutura e DevOps
+- Marketing e aquisição de usuários
+- Operação e suporte
+- Evolução contínua
+- Escalabilidade
+- Monetização
 
 ---
 
@@ -35,13 +35,13 @@ Tornar-se um dos maiores hubs de produtos digitais da América Latina, operando 
 
 ### Valores
 
-* Inovação contínua
-* Escalabilidade
-* Eficiência operacional
-* Automação
-* Simplicidade
-* Crescimento sustentável
-* Foco em resultado
+- Inovação contínua
+- Escalabilidade
+- Eficiência operacional
+- Automação
+- Simplicidade
+- Crescimento sustentável
+- Foco em resultado
 
 ---
 
@@ -101,11 +101,11 @@ MULTI TENANT
 
 Exemplos:
 
-* Multi Tenant Finance
-* Multi Tenant Health
-* Multi Tenant Church
-* Multi Tenant CRM
-* Multi Tenant ERP
+- Multi Tenant Finance
+- Multi Tenant Health
+- Multi Tenant Church
+- Multi Tenant CRM
+- Multi Tenant ERP
 
 ---
 
@@ -119,11 +119,11 @@ A MULTI TENANT cria, opera e escala seus próprios produtos digitais.
 
 Isso permite:
 
-* Controle total do produto
-* Crescimento exponencial
-* Receita recorrente
-* Menor dependência de projetos
-* Escalabilidade global
+- Controle total do produto
+- Crescimento exponencial
+- Receita recorrente
+- Menor dependência de projetos
+- Escalabilidade global
 
 ---
 
@@ -135,10 +135,10 @@ Isso permite:
 
 Características:
 
-* Inovador
-* Visionário
-* Construtor
-* Estratégico
+- Inovador
+- Visionário
+- Construtor
+- Estratégico
 
 ### Arquétipo Secundário
 
@@ -146,10 +146,10 @@ Características:
 
 Características:
 
-* Estrutura
-* Organização
-* Controle
-* Escala
+- Estrutura
+- Organização
+- Controle
+- Escala
 
 ---
 
@@ -159,18 +159,18 @@ Características:
 
 Estilo:
 
-* Minimalista
-* Tecnológico
-* Corporativo
-* Premium
-* Futurista
+- Minimalista
+- Tecnológico
+- Corporativo
+- Premium
+- Futurista
 
 Inspirado em:
 
-* Stripe
-* Linear
-* Vercel
-* Atlassian
+- Stripe
+- Linear
+- Vercel
+- Atlassian
 
 ---
 
@@ -186,9 +186,9 @@ Inspirado em:
 
 Representa:
 
-* Confiança
-* Tecnologia
-* Segurança
+- Confiança
+- Tecnologia
+- Segurança
 
 ---
 
@@ -202,9 +202,9 @@ Representa:
 
 Representa:
 
-* Inovação
-* Crescimento
-* Futuro
+- Inovação
+- Crescimento
+- Futuro
 
 ---
 
@@ -218,9 +218,9 @@ Representa:
 
 Representa:
 
-* Automação
-* Conectividade
-* Inteligência
+- Automação
+- Conectividade
+- Inteligência
 
 ---
 
@@ -242,10 +242,10 @@ Representa:
 
 Um conjunto de blocos conectados formando:
 
-* Rede
-* Ecossistema
-* Plataforma
-* Escalabilidade
+- Rede
+- Ecossistema
+- Plataforma
+- Escalabilidade
 
 Representando:
 
@@ -289,4 +289,4 @@ O "M" central representa a plataforma principal alimentando múltiplos produtos.
 
 **MULTI TENANT**
 
-### *Software. Escala. Recorrência.* 🚀
+### _Software. Escala. Recorrência._ 🚀
